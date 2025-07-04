@@ -28,10 +28,6 @@ By simulating multiple cost scenarios (e.g., changes in food, equipment, and res
 
 ---
 
-## 📈 Screenshots
-
-> (You can upload screenshots of your Excel sheet and add them here using markdown syntax like `![Alt text](image_url)`)
-
 ---
 
 ## 🛠️ How It Works
